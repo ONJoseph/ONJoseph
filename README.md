@@ -13,10 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascript | NodeJS | React   
+- 💻 &nbsp; Python | JavaScript | Node.JS | React   
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQ | Xampp
-- 🔧 &nbsp; PyCharm | Visual Studio code | GitHub | Git
+- 🔧 &nbsp; PyCharm | Visual Studio Code | GitHub | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
 
 <br>
