@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning React and NodeJS Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduate of Electrical/Electronics Engineering and Certifified IT Support Specialist.
-- 💼 &nbsp; front-end web developer.
+- 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Playing Chess and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I believe, showing kindness and a perfect cup of coffee can be the ultimate solution for any stress. 
