@@ -45,7 +45,3 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊
 
 <div align="center">
-
-[![HitCount](https://hits.dwyl.com/ONJoseph/https://githubcom/ONJoseph.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ONJoseph/https://githubcom/ONJoseph)
- 
-<i>Follow me:</i><br>
