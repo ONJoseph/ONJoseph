@@ -1,6 +1,9 @@
 <h2> Hey there!👋 I'm Joseph. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning React and NodeJS Application Development
@@ -39,6 +42,6 @@
 
 ⭐️ From [ONJoseph](https://github.com/ONJoseph)
 
-Happy Coding! 😊
+     Happy Coding! 😊
 
 <div align="center">
